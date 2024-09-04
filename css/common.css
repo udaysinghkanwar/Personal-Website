@@ -265,13 +265,12 @@ a.button:active
     position: relative;
     top: 1px;	
 }
-h1,h2,h3,h4,h5,h6
-{
-    padding: 20px 0;
-}
+
 h1
 {
-    font-size: 38px;
+    padding-top: 150px;
+    margin-left: 35px;
+    font-size: 50px;
     line-height: 38px;    
 }
 h2
